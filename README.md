@@ -1,4 +1,4 @@
-### Hi, I'm Abhinav Bhardwaj 👋 💻
+# Hi, I'm Abhinav Bhardwaj 👋 💻
 
 <img src="header.png">
 
