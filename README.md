@@ -1,4 +1,4 @@
-### Hi, I'm Abhinav Bhardwaj 👋  😄🏾‍💻
+### Hi, I'm Abhinav Bhardwaj 👋 💻
 
 
 - 🔭 I’m currently working on Patien's Unique Identification Project
