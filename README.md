@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Bhardwaj 👋 💻
 
-<img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/Abhinav-Bhardwaj-0/header.png">
+<img src="header.png">
 
 - 🔭 I’m currently working on Patien's Unique Identification Project
 - 🌱 I’m currently learning MERN Stack, PHP, HTML
