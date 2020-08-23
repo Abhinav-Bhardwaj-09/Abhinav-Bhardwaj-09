@@ -1,7 +1,5 @@
 # Hi, I'm Abhinav Bhardwaj 👋 💻
-
 <img src="header.png">
-
 - 🔭 I’m currently working on Patien's Unique Identification Project
 - 🌱 I’m currently learning MERN Stack, PHP, HTML
 - 🤔 I’m looking for help with design
