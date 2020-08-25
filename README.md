@@ -2,7 +2,7 @@
 
    <img src="header.png">
 
-- 🔭 I’m currently working on Patien's Unique Identification Project
+- 🔭 I’m currently working on Patient's Unique Identification Project
 - 🌱 I’m currently learning MERN Stack, PHP, HTML
 - 🤔 I’m looking for help with design
 - 📫 How to reach me: abhinav.bhardwaj_cs@outlook.com
