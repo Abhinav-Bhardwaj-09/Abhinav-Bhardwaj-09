@@ -17,4 +17,4 @@
 
 
 ## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/abhinav-bhardwaj-8a025a135/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">LinkedIn</a> 💼
