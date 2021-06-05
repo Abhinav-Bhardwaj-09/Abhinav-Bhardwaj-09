@@ -1,20 +1,14 @@
-# Hi, I'm Abhinav Bhardwaj 👋 💻
+# Hi, I'm *Abhinav Bhardwaj* 👋 💻
 
-   <!-- <img src="header.png"> -->
+ 
 
-- 🔭 I’m currently working on Patien's Unique Identification Project
-- 🌱 I’m currently learning MERN Stack, PHP, HTML
-- 🤔 I’m looking for help with design
-- 📫 How to reach me: abhinav.bhardwaj_cs@outlook.com
+- 🌱 I’m currently learning MERN Stack.
+- 💻 My skills : C, Java, Python, HTML, CSS, Bootstrap, PHP, JS, MERN Stack and IIoT. I'm also a little bit familiar with Machine Learning using Python. 
+- 🤔 I’m looking for help with designining UI.
+- 📫 How to reach me: abhinav.bhardwaj_cs@outlook.com, abhinav.bhardwaj_Cs18@gla.ac.in
 - 😄 Pronouns: he/him
-<!--
-- 👯 I’m looking to collaborate on ...
--  ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
 
 
-
+[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.jwenjian)](https://github.com/jwenjian/visitor-badge)
 ## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">LinkedIn</a> 💼
+-💼 Sharing updates on <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">LinkedIn</a> 
