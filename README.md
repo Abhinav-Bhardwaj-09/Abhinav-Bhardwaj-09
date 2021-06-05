@@ -9,6 +9,6 @@
 - 😄 Pronouns: he/him
 
 
-[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.jwenjian)](https://github.com/jwenjian/visitor-badge)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter)
 ## Find me around the web 🌎:
 -💼 Sharing updates on <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">LinkedIn</a> 
