@@ -21,8 +21,9 @@
 <br>
 
 ## Find me around the web 🌎:
--😄 Know more about me from <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">My Portfolio</a><br/>
--💼 Sharing updates on <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">LinkedIn</a> 
+-😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/" target="_blank">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
+
+-💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a> 
 
 <br />
 
