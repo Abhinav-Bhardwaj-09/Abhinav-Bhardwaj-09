@@ -17,7 +17,6 @@
  
 ![Profile Visit Counter](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter) 
  
- *from 05/06/2021* 
 </div>
 <br>
 
