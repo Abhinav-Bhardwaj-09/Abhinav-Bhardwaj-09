@@ -21,9 +21,11 @@
 <br>
 
 ## Find me around the web 🌎:
--😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/" target="_blank">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
+-😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
 
 -💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a> 
+
+-💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009"> <img src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /> </a> &nbsp; <a href="https://www.codechef.com/abhirajput09"> <img src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /> </a>
 
 <br />
 
