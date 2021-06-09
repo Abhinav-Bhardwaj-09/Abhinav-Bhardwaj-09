@@ -27,6 +27,8 @@
 
 -💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009"> <img src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /> </a> &nbsp; <a href="https://www.codechef.com/abhirajput09"> <img src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /> </a>
 
+-📫 Reach me : &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_Cs18@gla.ac.in"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /> </a>
+
 <br />
 
 ## Key Projects :
