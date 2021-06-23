@@ -25,7 +25,7 @@
 
 -💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a> 
 
--💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009"> <img src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /></a> &nbsp; <a href="https://www.codechef.com/abhirajput09"> <img src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /></a>
+-💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009"> <img src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /></a> &nbsp; <a href="https://www.freecodecamp.org/fcca7e27bae-88a7-4a05-a4f9-85d58239771e"> <img src="https://img.shields.io/badge/-freeCodeCamp-black?style=rounded-square&logo=freecodecamp" /></a> &nbsp; <a href="https://www.codechef.com/abhirajput09"> <img src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /></a>
 
 -📫 Reach me out  &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_cs18@gla.ac.in"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a> &nbsp; <a href="mailto:abhinav.bhardwaj_cs@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-blue?style=rounded-square&logo=microsoft" /></a>
 
