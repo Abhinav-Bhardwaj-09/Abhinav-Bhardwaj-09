@@ -40,11 +40,11 @@
 <br />
 <div class="row">
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" align="left"/>
-<img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp" align="center" height="190px" width="280px"/>
+<img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp" align="center" height="190px" width="300px"/>
 </div>
 <br /><br />
 <div class="row" style="margin-top:15px;">
-<img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/right-pointer.webp" align="center" height="160px" width="320px"/>
+<img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/right-pointer.webp" align="center" height="160px" width="340px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
 </div>
 <br />
