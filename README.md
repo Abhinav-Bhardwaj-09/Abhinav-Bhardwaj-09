@@ -38,9 +38,16 @@
 - <a href="https://todo--app-live.herokuapp.com">ToDo App</a>
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true"/>
-
-<br /><br /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
+<div class="row">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" align="left"/>
+<img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp" align="right" height="200px" width="280px"/>
+</div>
+<br /><br />
+<div class="row">
+<img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp" align="left" height="200px" width="280px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
+</div>
+<br />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/> -->
 
 
