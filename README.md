@@ -18,7 +18,7 @@
 ![Profile Visit Counter](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter) 
  
 </div>
-<br>
+<br />
 
 ## Find me around the web 🌎:
 -😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
@@ -36,3 +36,10 @@
 - <a href="https://ui-color-treasure.herokuapp.com">UI-Color-Treasure</a>
 - <a href="https://ready-reckoner.herokuapp.com">Ready Reckoner</a>
 - <a href="https://todo--app-live.herokuapp.com">ToDo App</a>
+
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" align="left"/>
+
+
+
+
