@@ -46,8 +46,8 @@
 <img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp?token=AM25A5ONT3WXYSH6KXEQWTTA4GIGC" align="center" height="190px" width="300px"/>
 </div>
 <br /><br />
-<div class="row" style="margin-top:15px;">
+<!-- div class="row" style="margin-top:15px;">
 <img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/right-pointer.webp?token=AM25A5MCEOTZVZOZRK3PNVDA4GIIA" align="center" height="160px" width="360px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
 </div>
-<br />
+<br / -->
