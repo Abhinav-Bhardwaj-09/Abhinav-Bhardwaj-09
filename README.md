@@ -38,6 +38,9 @@
 - <a href="https://todo--app-live.herokuapp.com">ToDo App</a>
 
 <br />
+
+## Profile Stats :
+<br />
 <div class="row">
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" align="left"/>
 <img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp" align="center" height="190px" width="300px"/>
