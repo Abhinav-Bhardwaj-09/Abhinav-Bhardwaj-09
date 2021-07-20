@@ -43,8 +43,11 @@
 ## Profile Stats :
 <br />
 <div class="row">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" />
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" align="left" />
 <img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp?token=AM25A5LNKSRVMCWT4SA56L3A5PCR2" align="center" height="190px" width="300px"/>
+-->
 </div>
 <br /><br />
 <!-- div class="row" style="margin-top:15px;">
