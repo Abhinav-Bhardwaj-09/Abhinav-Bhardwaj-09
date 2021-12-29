@@ -1,10 +1,12 @@
-# Hi, I'm *Abhinav Bhardwaj* 👋 💻
+#Hi, I'm *Abhinav Bhardwaj* 👋 💻
 
  <br />
  
 - 🌱 I’m currently learning MERN Stack.
 - 💻 My skills : C, Java, Python, HTML, CSS, Bootstrap, PHP, JS, MERN Stack and IIoT. &nbsp; I'm also a little bit familiar with Machine Learning using Python.<!-- 🤔 I’m looking for help with designining UI.-->
-- 📫 How to reach me: contactme@abhinav-bhardwaj-09.in, abhinav.bhardwaj_cs@outlook.com, abhinav.bhardwaj_cs18@gla.ac.in
+- 📫 How to reach me: contactme@abhinav-bhardwaj-09.in<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   abhinav.bhardwaj_cs@outlook.com<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   abhinav.bhardwaj_cs18@gla.ac.in<br />
 - 😄 Pronouns: he/him
 
 
@@ -54,4 +56,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
 </div>
 <br / -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></p>
+<p padding="15"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></p>
