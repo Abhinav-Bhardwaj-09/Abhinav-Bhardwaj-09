@@ -1,4 +1,4 @@
-#Hi, I'm *Abhinav Bhardwaj* 👋 💻
+#  <p align="center"> Hi, I'm *Abhinav Bhardwaj* 👋 💻</p>
 
  <br />
  
