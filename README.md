@@ -14,7 +14,7 @@
 
 <br />
 
-## Total Profile Visit :
+## Total Profile Visit 
 <br />
  <div align="center"> 
  
@@ -22,7 +22,7 @@
  
 </div>
 
-## GitHub Trophies &nbsp; <img src='https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png' width="30px" height="30px">:
+## GitHub Trophies &nbsp; <img src='https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png' width="30px" height="30px">
 <br />
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhinav-bhardwaj-09&theme=algolia" alt="abhinav-bhardwaj-09" /></p>
 
@@ -30,7 +30,7 @@
 
 
 
-## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎:
+## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎
 -😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
 
 -💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a> 
@@ -41,7 +41,7 @@
 
 <br />
 
-## Key Projects :
+## Key Projects 
 - <a href="https://abhinav-bhardwaj-09.herokuapp.com">My Personlized Portfolio</a>
 - <a href="https://ui-color-treasure.herokuapp.com">UI-Color-Treasure</a>
 - <a href="https://ready-reckoner.herokuapp.com">Ready Reckoner</a>
@@ -50,7 +50,7 @@
 
 <br />
 
-## Profile Stats :
+## Profile Stats 
 <br />
 <div class="row">
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" />
