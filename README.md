@@ -19,7 +19,7 @@
 </div>
 <br />
 
-## Find me around the web 🌎:
+## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎:
 -😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
 
 -💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a> 
