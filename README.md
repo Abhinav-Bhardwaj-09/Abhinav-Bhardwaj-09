@@ -1,7 +1,8 @@
 #  <p align="center">👋 💻 Hi, I'm *Abhinav Bhardwaj* 💻 👋</p>
-<h3 align="center">A passionate UX Designer and FullStack developer from India</h3>
 
- <br />
+<h3 align="center">A passionate UX Designer and FullStack developer from India</h3>
+<br />
+
  
 - 🌱 I’m currently learning MERN Stack.
 - 💻 My skills : C, Java, Python, HTML, CSS, Bootstrap, PHP, JS, MERN Stack and IIoT. &nbsp; I'm also a little bit familiar with Machine Learning using Python.<!-- 🤔 I’m looking for help with designining UI.-->
@@ -20,6 +21,12 @@
 ![Profile Visit Counter](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter) 
  
 </div>
+
+## GitHub Trophies :
+<br />
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhinav-bhardwaj-09&theme=algolia" alt="abhinav-bhardwaj-09" /></p>
+
+<br />
 
 
 
