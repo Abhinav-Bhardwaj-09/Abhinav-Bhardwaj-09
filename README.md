@@ -1,4 +1,5 @@
 #  <p align="center">👋 💻 Hi, I'm *Abhinav Bhardwaj* 💻 👋</p>
+<h3 align="center">A passionate UX Designer and FullStack developer from India</h3>
 
  <br />
  
@@ -19,7 +20,8 @@
 ![Profile Visit Counter](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter) 
  
 </div>
-<br />
+
+
 
 ## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎:
 -😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
