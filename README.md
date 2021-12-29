@@ -33,6 +33,12 @@
 ## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎
 -😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
 
+-😄 Follow me on <a href="https://twitter.com/abhinavb1999" title="Twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavb1999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinav-bhardwaj-09" title="Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
+<a href="https://kaggle.com/abhinav-bhardwaj-09" title="Kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhi_rajput09" title="CodeChef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_rajput09" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_181500009" title="HackerRank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_181500009" height="30" width="40" /></a>
+
 -💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/">  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a> 
 
 -💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009"> <img src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /></a> &nbsp; <a href="https://www.freecodecamp.org/fcca7e27bae-88a7-4a05-a4f9-85d58239771e"> <img src="https://img.shields.io/badge/-freeCodeCamp-black?style=rounded-square&logo=freecodecamp" /></a> &nbsp; <a href="https://www.codechef.com/users/abhi_rajput09"> <img src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /></a>
@@ -66,3 +72,5 @@
 </div>
 <br / -->
 <p padding="15"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></p>
+
+
