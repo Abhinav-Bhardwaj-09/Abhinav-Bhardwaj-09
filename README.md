@@ -54,3 +54,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
 </div>
 <br / -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></p>
