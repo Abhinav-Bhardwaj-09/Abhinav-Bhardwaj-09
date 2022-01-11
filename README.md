@@ -18,7 +18,8 @@
 <br />
  <div align="center"> 
  
-![Profile Visit Counter](https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter) 
+
+ <img alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'>
  
 </div>
 
