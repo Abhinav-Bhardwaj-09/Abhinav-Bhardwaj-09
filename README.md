@@ -20,7 +20,8 @@
  
 
  <img alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'>
- 
+<!-- ![visitors](https://page-views.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter)
+ <img alt="Profile Visit Counter" src='https://page-views.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'> -->
 </div>
 
 ## GitHub Trophies &nbsp; <img src='https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png' width="30px" height="30px">
