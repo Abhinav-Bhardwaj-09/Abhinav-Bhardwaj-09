@@ -34,13 +34,6 @@
 
 <br />
 
-## Coding Activity Graph
-<br />
- <div align="center"> 
-  <img alt="Coding Activity Graph" height="300" width="400" src="https://wakatime.com/share/@AbhinavBhardwaj/d95d688d-d2c5-49d5-9a9f-c1e6c201c4c9.svg">  <sub>(Since Feb 25<sup>th</sup>)</sub>
- </div>
-
-<br />
 
 ## GitHub Trophies &nbsp; <img src='https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png' width="30px" height="30px">
 <br />
@@ -79,10 +72,10 @@
 
 <br />
 
-## Profile Stats 
+## Coding Stats 
 <br />
 <div class="row">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" />
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" align="left" />
 <img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp?token=AM25A5LNKSRVMCWT4SA56L3A5PCR2" align="center" height="190px" width="300px"/>
@@ -94,6 +87,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
 </div>
 <br / -->
-<p padding="15"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></p>
-
-
+ <div align="center"><img alt="Coding Activity Graph" height="300" width="750" src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"><sub>(Since Feb 25<sup>th</sup>)</sub></div>
