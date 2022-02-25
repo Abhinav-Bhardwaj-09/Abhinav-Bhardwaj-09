@@ -29,7 +29,7 @@
 ## Coding Time Elapsed
 <br />
  <div align="center"> 
-  <img alt="Code Time" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'>
+  <img alt="Code Time" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'>  <sub>(Since Feb 25<sup>th</sup>)</sub>
  </div>
 
 
