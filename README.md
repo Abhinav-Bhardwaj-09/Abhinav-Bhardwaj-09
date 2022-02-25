@@ -32,6 +32,15 @@
   <img alt="Code Time" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'>  <sub>(Since Feb 25<sup>th</sup>)</sub>
  </div>
 
+<br />
+
+## Coding Activity Graph
+<br />
+ <div align="center"> 
+  <img alt="Coding Activity Graph" height="300" width="400" src="https://wakatime.com/share/@AbhinavBhardwaj/d95d688d-d2c5-49d5-9a9f-c1e6c201c4c9.svg">  <sub>(Since Feb 25<sup>th</sup>)</sub>
+ </div>
+
+<br />
 
 ## GitHub Trophies &nbsp; <img src='https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png' width="30px" height="30px">
 <br />
