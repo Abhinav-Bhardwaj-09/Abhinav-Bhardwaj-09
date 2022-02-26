@@ -11,29 +11,28 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   abhinav.bhardwaj_cs18@gla.ac.in<br />
 - 😎 Pronouns: he/him
 
-
 <br />
 
-## Total Profile Visit 
-<br />
- <div align="center"> 
+## Reckoners
+ <div align="center" > 
+ <a href='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter' target="blank"><img alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg' target="blank"><img alt="Code Time" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'></a><sub>(Since Feb 25<sup>th</sup>)</sub>
+ </div>
  
-
+ 
+ <!--    ## Total Profile Visit    <br />
+ <div align="center"> 
   <a href='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter' target="blank"><img alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'></a>
 <!-- ![visitors](https://page-views.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter)
- <img alt="Profile Visit Counter" src='https://page-views.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'> -->
+ <img alt="Profile Visit Counter" src='https://page-views.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'> 
 </div>
-
-<br />
-
-## Coding Time Elapsed
-<br />
+<br />  ## Coding Time Elapsed. <br />
  <div align="center"> 
   <a href='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg' target="blank"><img alt="Code Time" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'></a>  <sub>(Since Feb 25<sup>th</sup>)</sub>
- </div>
+ </div>  -->
+
 
 <br />
-
 
 ## GitHub Trophies &nbsp; <img src='https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png' width="30px" height="30px">
 <br />
@@ -72,7 +71,7 @@
 
 <br />
 
-## Coding Stats 
+## Few Stats 
 <br />
 <div class="row">
 <a href="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" /></a>&nbsp;<a href="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" target="blank" alt="Abhinav-Bhardwaj-09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></a>
@@ -87,4 +86,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
 </div>
 <br / -->
- <div align="center"><a href="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg" target="blank">><img alt="Coding Activity Graph" height="300" width="750" src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"></a><sub>(Since Feb 25<sup>th</sup>)</sub></div>
+ <div align="center"><a href="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg" target="blank"><img alt="Coding Activity Graph" height="300" width="750" src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"></a><sub>(Since Feb 25<sup>th</sup>)</sub></div>
