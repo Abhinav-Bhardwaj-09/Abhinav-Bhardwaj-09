@@ -119,10 +119,10 @@ const Abhinav = {
 
 <p align="center">
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"><img src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg" height="200" width="400" /></a>&nbsp;&nbsp;
-  <a href="https://wakatime.com/share/@AbhinavBhardwaj/118ce7bf-abf7-45c7-8a43-b453860903cb.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/118ce7bf-abf7-45c7-8a43-b453860903cb.png" height="200" width="400" /></a>
+  <a href="https://wakatime.com/share/@AbhinavBhardwaj/a0dd3d45-c0b7-48e3-b59e-6741c6deffa2.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/a0dd3d45-c0b7-48e3-b59e-6741c6deffa2.png" height="200" width="400" /></a>
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/share/@AbhinavBhardwaj/796c8697-7966-47ca-97c0-60ac69f2f184.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/796c8697-7966-47ca-97c0-60ac69f2f184.png" height="200" width="400" /></a>&nbsp;&nbsp;
- <a href="https://wakatime.com/share/@AbhinavBhardwaj/e18426c6-28ab-4a1d-a98b-23006b28d027.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/e18426c6-28ab-4a1d-a98b-23006b28d027.png" height="200" width="400" /></a>
+  <a href="https://wakatime.com/share/@AbhinavBhardwaj/f9a920d3-593d-4ad9-bce1-ca996623ce34.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/f9a920d3-593d-4ad9-bce1-ca996623ce34.png" height="200" width="400" /></a>&nbsp;&nbsp;
+ <a href="https://wakatime.com/share/@AbhinavBhardwaj/1664867d-020c-4dfd-abf3-4b10560987e5.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/1664867d-020c-4dfd-abf3-4b10560987e5.png" height="200" width="400" /></a>
 </p>
