@@ -93,5 +93,10 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
 </div>
 <br / -->
- <div align="center"><a href="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg" target="blank"><img alt="Coding Activity Graph" height="300" width="750" src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"></a><sub>(Since Feb 25<sup>th</sup>)</sub></div>
 
+## Coding Stats <span><sub>_(Since Feb 25<sup>th</sup>)_</sub></span>
+
+<p align="center">
+  <a href="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"><img src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg" height="200" width="400" /></a>&nbsp;&nbsp;
+  <a href="https://wakatime.com/share/@AbhinavBhardwaj/118ce7bf-abf7-45c7-8a43-b453860903cb.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/118ce7bf-abf7-45c7-8a43-b453860903cb.png" height="200" width="400" /></a>
+</p>
