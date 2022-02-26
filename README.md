@@ -103,4 +103,5 @@
 
 <p align="center">
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/796c8697-7966-47ca-97c0-60ac69f2f184.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/796c8697-7966-47ca-97c0-60ac69f2f184.png" height="200" width="400" /></a>&nbsp;&nbsp;
+ <a href="https://wakatime.com/share/@AbhinavBhardwaj/e18426c6-28ab-4a1d-a98b-23006b28d027.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/e18426c6-28ab-4a1d-a98b-23006b28d027.png" height="200" width="400" /></a>
 </p>
