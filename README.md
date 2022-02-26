@@ -23,7 +23,7 @@ const Abhinav = {
   
         technology: [Web Dev, UX-Design, Machine Learning, Industrial Internet of Things]
   
-        tools: [IntelliJ IDEA, PyCharm, Visual Studio Code, Figma, MongoDB ],
+        tools: [IntelliJ IDEA, PyCharm, Visual Studio Code, Figma, MongoDB, Postman, Jupyter Notebook, Arduino IDE, Git ],
   
         contact: {
                     Email Domain  : "contactme@abhinav-bhardwaj-09.in",
