@@ -3,15 +3,41 @@
 <h3 align="center">A passionate UX Designer and FullStack developer from India</h3>
 <br />
 
- 
+<!-- 
 - I’m currently exploring Machine Learning, Web Dev with MERN Stack and UX Designing.
-- 💻 My skills : C, Java, Python, HTML, CSS, Bootstrap, PHP, JS, MERN Stack and IIoT. &nbsp; I'm also a little bit familiar with Machine Learning using Python.<!-- 👀 I’m looking for help with designining UI.-->
+- 💻 My skills : C, Java, Python, HTML, CSS, Bootstrap, PHP, JS, MERN Stack and IIoT. &nbsp; I'm also a little bit familiar with Machine Learning using Python.<!-- 👀 I’m looking for help with designining UI.
 - 📫 How to reach me: contactme@abhinav-bhardwaj-09.in<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   abhinav.bhardwaj_cs@outlook.com<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   abhinav.bhardwaj_cs18@gla.ac.in<br />
 - 😎 Pronouns: he/him
 
+
+-->
+
+```javascript
+const Abhinav = {
+
+        pronouns: "He" | "Him",
+  
+        code: [C, Java, Python, HTML, CSS, JavaScript, Bootstrap, React, Express, PHP, SQL, Embedded C],
+  
+        technology: [Web Dev, UX-Design, Machine Learning, Industrial Internet of Things]
+  
+        tools: [IntelliJ IDEA, PyCharm, Visual Studio Code, Figma, MongoDB ],
+  
+        contact: {
+                    Email Domain  : "contactme@abhinav-bhardwaj-09.in",
+                    Outlook       : "abhinav.bhardwaj_cs@outlook.com",
+                    College Email : "abhinav.bhardwaj_cs18@gla.ac.in"
+                  },
+            
+        exploring: [ Machine Learning, Web Dev with MERN Stack , UX Designing]
+ 
+}
+```
+
 <br />
+
 
 ## Reckoners
 <br />
