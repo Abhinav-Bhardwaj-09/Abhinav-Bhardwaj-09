@@ -118,7 +118,7 @@ const Abhinav = {
 ## Coding Stats <span><sub>_(Since Feb 25<sup>th</sup>)_</sub></span>
 
 <p align="center">
-  <a href="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"><img src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg" height="200" width="400" /></a>&nbsp;&nbsp;
+  <a href="https://wakatime.com/share/@AbhinavBhardwaj/6d49169e-1fe6-4107-ba36-172eb9104d11.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/6d49169e-1fe6-4107-ba36-172eb9104d11.png" height="200" width="400" /></a>&nbsp;&nbsp;
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/a0dd3d45-c0b7-48e3-b59e-6741c6deffa2.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/a0dd3d45-c0b7-48e3-b59e-6741c6deffa2.png" height="200" width="400" /></a>
 </p>
 
