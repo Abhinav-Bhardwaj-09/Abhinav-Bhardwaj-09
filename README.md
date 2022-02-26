@@ -71,19 +71,26 @@
 
 <br />
 
-## Few Stats 
+## GitHub Stats 
 <br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" width="400" />&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" width="400" />
+</p>
+<!--
 <div class="row">
 <a href="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" /></a>&nbsp;<a href="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" target="blank" alt="Abhinav-Bhardwaj-09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></a>
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" align="left" />
 <img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/left-pointer.webp?token=AM25A5LNKSRVMCWT4SA56L3A5PCR2" align="center" height="190px" width="300px"/>
--->
-</div>
-<br /><br />
+
+</div> -->
+
 <!-- div class="row" style="margin-top:15px;">
 <img src="https://raw.githubusercontent.com/Abhinav-Bhardwaj-09/cdn/master/right-pointer.webp?token=AM25A5MCEOTZVZOZRK3PNVDA4GIIA" align="center" height="160px" width="360px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Bhardwaj-09&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used Languages (excluding private repo langs)&card_width=420px" align="right"/>
 </div>
 <br / -->
  <div align="center"><a href="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg" target="blank"><img alt="Coding Activity Graph" height="300" width="750" src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"></a><sub>(Since Feb 25<sup>th</sup>)</sub></div>
+
