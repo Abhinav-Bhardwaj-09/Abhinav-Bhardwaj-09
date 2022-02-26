@@ -75,9 +75,10 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" width="400" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="400" />&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2884D2&background=0D1012" width="400" />
 </p>
+
 <!--
 <div class="row">
 <a href="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" /></a>&nbsp;<a href="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" target="blank" alt="Abhinav-Bhardwaj-09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></a>
