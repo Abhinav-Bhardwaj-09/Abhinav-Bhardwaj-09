@@ -100,3 +100,7 @@
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg"><img src="https://wakatime.com/share/@AbhinavBhardwaj/5b4de72a-3e2e-4cc3-be2b-785b249646cd.svg" height="200" width="400" /></a>&nbsp;&nbsp;
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/118ce7bf-abf7-45c7-8a43-b453860903cb.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/118ce7bf-abf7-45c7-8a43-b453860903cb.png" height="200" width="400" /></a>
 </p>
+
+<p align="center">
+  <a href="https://wakatime.com/share/@AbhinavBhardwaj/796c8697-7966-47ca-97c0-60ac69f2f184.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/796c8697-7966-47ca-97c0-60ac69f2f184.png" height="200" width="400" /></a>&nbsp;&nbsp;
+</p>
