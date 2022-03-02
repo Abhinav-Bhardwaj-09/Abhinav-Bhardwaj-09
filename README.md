@@ -1,9 +1,13 @@
-#  <p align="center">👋 💻 Hi, I'm *Abhinav Bhardwaj* 💻 👋</p>
+<br /><br />
+
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋💻+Hi,+There!+💻👋;+I'm+Abhinav+Bhardwaj;Welcome+to+my+profile...&center=true&size=28"></p>
 
 <h3 align="center">A passionate UX Designer and FullStack developer from India</h3>
+
+<br />
 <br />
 
-<!-- 
+<!--
 - I’m currently exploring Machine Learning, Web Dev with MERN Stack and UX Designing.
 - 💻 My skills : C, Java, Python, HTML, CSS, Bootstrap, PHP, JS, MERN Stack and IIoT. &nbsp; I'm also a little bit familiar with Machine Learning using Python.<!-- 👀 I’m looking for help with designining UI.
 - 📫 How to reach me: contactme@abhinav-bhardwaj-09.in<br />
@@ -18,28 +22,28 @@
 const Abhinav = {
 
         pronouns: "He" | "Him",
-  
+
         code: [C, Java, Python, HTML, CSS, JavaScript, Bootstrap, React, Express, PHP, SQL, Embedded C],
-  
+
         technology: [Web Dev, UX-Design, Machine Learning, Industrial Internet of Things]
-  
+
         tools: [IntelliJ IDEA, PyCharm, Visual Studio Code, Figma, MongoDB, Postman, Jupyter Notebook, Arduino IDE, Git ],
-  
+
         contact: {
                     Email Domain  : "contactme@abhinav-bhardwaj-09.in",
                     Outlook       : "abhinav.bhardwaj_cs@outlook.com",
                     College Email : "abhinav.bhardwaj_cs18@gla.ac.in"
                   },
-            
+
         exploring: [ Machine Learning, Web Dev with MERN Stack , UX Designing]
- 
+
 }
 ```
 
 <br />
 
-
 ## Reckoners
+
 <br />
  <div align="center" > 
  <a href='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter' target="blank"><img alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,15 +62,15 @@ const Abhinav = {
  </div>  -->
 
 ## GitHub Trophies &nbsp; <img src='https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png' width="30px" height="30px">
+
 <br />
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhinav-bhardwaj-09&theme=algolia" alt="abhinav-bhardwaj-09" /></p>
 
 <br />
 
-
-
 ## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎
--😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/" target="blank">  <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
+
+-😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/" target="blank"> <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
 
 -😄 Follow me on <a href="https://twitter.com/abhinavb1999" title="Twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavb1999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinav-bhardwaj-09" title="Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
@@ -74,15 +78,16 @@ const Abhinav = {
 <a href="https://www.codechef.com/users/abhi_rajput09" title="CodeChef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_rajput09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_181500009" title="HackerRank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_181500009" height="30" width="40" /></a>
 
--💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/" target="blank">  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a> 
+-💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a>
 
 -💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009" target="blank"> <img src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /></a> &nbsp; <a href="https://www.freecodecamp.org/fcca7e27bae-88a7-4a05-a4f9-85d58239771e" target="blank"> <img src="https://img.shields.io/badge/-freeCodeCamp-black?style=rounded-square&logo=freecodecamp" /></a> &nbsp; <a href="https://www.codechef.com/users/abhi_rajput09" target="blank"> <img src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /></a>
 
--📫 Reach me out  &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_cs18@gla.ac.in" target="blank"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a> &nbsp; <a href="mailto:abhinav.bhardwaj_cs@outlook.com" target="blank"> <img src="https://img.shields.io/badge/-Outlook-blue?style=rounded-square&logo=microsoft" /></a>
+-📫 Reach me out &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_cs18@gla.ac.in" target="blank"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a> &nbsp; <a href="mailto:abhinav.bhardwaj_cs@outlook.com" target="blank"> <img src="https://img.shields.io/badge/-Outlook-blue?style=rounded-square&logo=microsoft" /></a>
 
 <br />
 
-## Key Projects 
+## Key Projects
+
 - <a href="https://abhinav-bhardwaj-09.herokuapp.com" target="blank">My Personlized Portfolio</a>
 - <a href="https://ui-color-treasure.herokuapp.com" target="blank">UI-Color-Treasure</a>
 - <a href="https://ready-reckoner.herokuapp.com" target="blank">Ready Reckoner</a>
@@ -90,11 +95,10 @@ const Abhinav = {
 - <a href="https://abhinav-bhardwaj-09.in" target="blank">My New Personlized Portfolio</a> <i>( Still working on it )</i>
 - <a href="https://www.figma.com/proto/opBETqZJIDlk6erOE3Va7V/Trailer-Browsing-App?node-id=60%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=60%3A3" target="blank"> Protoype of Trailer Browsing App for a Movie Theatre</a>
 
-
-
 <br />
 
-## GitHub Stats 
+## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="400" />&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2884D2&background=0D1017" width="400" />
