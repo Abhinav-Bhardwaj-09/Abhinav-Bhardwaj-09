@@ -115,14 +115,22 @@ const Abhinav = {
 </div>
 <br / -->
 
-## Coding Stats <span><sub>_(Since Feb 25<sup>th</sup>)_</sub></span>
+## WakaTime Stats <span><sub>_(Since Feb 25<sup>th</sup>)_</sub></span>
 
 <p align="center">
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/0b5a2ecc-2988-4915-8b67-78833959a4aa.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/0b5a2ecc-2988-4915-8b67-78833959a4aa.png" height="200" width="400" /></a>&nbsp;&nbsp;
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/599b987d-78e7-44ca-bbee-16f0298a61ea.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/599b987d-78e7-44ca-bbee-16f0298a61ea.png" height="200" width="400" /></a>
 </p>
 
+<br />
+
 <p align="center">
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/d1379653-972e-40ff-ae91-18ebe2786561.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/d1379653-972e-40ff-ae91-18ebe2786561.png" height="200" width="400" /></a>&nbsp;&nbsp;
  <a href="https://wakatime.com/share/@AbhinavBhardwaj/a84b7d01-06cf-429d-8334-ee2ff181e397.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/a84b7d01-06cf-429d-8334-ee2ff181e397.png" height="200" width="400" /></a>
+</p>
+
+<br />
+
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinavbhardwaj&layout=compact&bg_color=0D1017&hide_border=true&hide_title=true"/>
 </p>
