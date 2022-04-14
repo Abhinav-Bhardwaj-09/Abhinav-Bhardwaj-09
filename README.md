@@ -1,6 +1,6 @@
 <br /><br />
 
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋💻+Hi,+There!+💻👋;+I'm+Abhinav+Bhardwaj;Welcome+to+my+profile...&center=true&size=28"></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋💻+Hi,+There!+💻👋;+Welcome+to+my+profile...;+I'm+Abhinav+Bhardwaj;&center=true&size=28"></p>
 
 <h3 align="center">A passionate UX Designer and FullStack developer from India</h3>
 
