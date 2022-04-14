@@ -82,6 +82,9 @@ const Abhinav = {
 
 -💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009" target="blank"> <img src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /></a> &nbsp; <a href="https://www.freecodecamp.org/fcca7e27bae-88a7-4a05-a4f9-85d58239771e" target="blank"> <img src="https://img.shields.io/badge/-freeCodeCamp-black?style=rounded-square&logo=freecodecamp" /></a> &nbsp; <a href="https://www.codechef.com/users/abhi_rajput09" target="blank"> <img src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /></a>
 
+-⏱ My Coding Time Tracker 
+<a href="https://wakatime.com/@AbhinavBhardwaj" target="blank"><img src="https://img.shields.io/badge/-WakaTime-black?style=rounded-square&logo=WAKATIME" /></a>
+
 -📫 Reach me out &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_cs18@gla.ac.in" target="blank"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a> &nbsp; <a href="mailto:abhinav.bhardwaj_cs@outlook.com" target="blank"> <img src="https://img.shields.io/badge/-Outlook-blue?style=rounded-square&logo=microsoft" /></a>
 
 <br />
