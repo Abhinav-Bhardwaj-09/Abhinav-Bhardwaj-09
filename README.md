@@ -70,7 +70,7 @@ const Abhinav = {
 
 ## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎
 
--😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/" target="blank"> <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj--09-gray?style=rounded-square&logo=heroku" /></a> <br/>
+-😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.herokuapp.com/" target="blank"> <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj-blue?style=rounded-square" /></a> <br/>
 
 -😄 Follow me on <a href="https://twitter.com/abhinavb1999" title="Twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavb1999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinav-bhardwaj-09" title="Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
