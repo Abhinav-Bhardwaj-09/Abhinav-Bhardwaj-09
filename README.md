@@ -125,8 +125,9 @@ const Abhinav = {
 ## WakaTime Stats <span><sub>_(Since Feb 25<sup>th</sup>)_</sub></span>
 
 <p align="center">
+        <!--Foreground color: #4992fe and bckgrnd color: trnsprnt-->
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/0b5a2ecc-2988-4915-8b67-78833959a4aa.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/0b5a2ecc-2988-4915-8b67-78833959a4aa.png" height="200" width="400" /></a>&nbsp;&nbsp;
-  <a href="https://wakatime.com/share/@AbhinavBhardwaj/599b987d-78e7-44ca-bbee-16f0298a61ea.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/599b987d-78e7-44ca-bbee-16f0298a61ea.png" height="200" width="400" /></a>
+  <a href="https://wakatime.com/share/@AbhinavBhardwaj/311ce1a1-3540-4102-9e8e-bc0ec8d9254a.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/311ce1a1-3540-4102-9e8e-bc0ec8d9254a.png" height="200" width="400" /></a>
 </p>
 
 <br />
