@@ -21,7 +21,7 @@
 ```javascript
 const Abhinav = {
 
-        pronouns: "He" | "Him",
+        pronouns: "He" | "Him" | "His",
 
         code: [C, Java, Python, HTML, CSS, JavaScript, Bootstrap, React, Express, PHP, SQL, Embedded C],
 
