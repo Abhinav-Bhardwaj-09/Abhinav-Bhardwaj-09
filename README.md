@@ -70,22 +70,24 @@ const Abhinav = {
 
 ## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎
 
--😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.in/" target="blank"> <img src="https://img.shields.io/badge/-Abhinav--Bhardwaj-blue?style=rounded-square" /></a> <br/>
+-😄 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.in/" target="blank"> <img  align="center" src="https://img.shields.io/badge/-Abhinav--Bhardwaj-blue?style=rounded-square" /></a> <br/>
 
--😄 Follow me on <a href="https://twitter.com/abhinavb1999" title="Twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavb1999" height="30" width="40" /></a>
+-😄 Follow me on
 <a href="https://linkedin.com/in/abhinav-bhardwaj-09" title="Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhinav-bhardwaj-09" title="Kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhi_rajput09" title="CodeChef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_rajput09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_181500009" title="HackerRank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_181500009" height="30" width="40" /></a>
 
--💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a>
+-😄 Connect with me on <a href="https://twitter.com/abhinavb1999" title="Twitter" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavb1999" height="30" width="40" /></a> <a href="http://www.instagram.com/_abhinav_._rajput_" target="_blank" rel="noreferrer"><img  align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="30" width="40" /></a>
 
--💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009" target="blank"> <img src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /></a> &nbsp; <a href="https://www.freecodecamp.org/fcca7e27bae-88a7-4a05-a4f9-85d58239771e" target="blank"> <img src="https://img.shields.io/badge/-freeCodeCamp-black?style=rounded-square&logo=freecodecamp" /></a> &nbsp; <a href="https://www.codechef.com/users/abhi_rajput09" target="blank"> <img src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /></a>
+-💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/" target="blank"> <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a>
+
+-💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.hackerrank.com/_181500009" target="blank"> <img align="center" src="https://img.shields.io/badge/-HackerRank-white?style=rounded-square&logo=hackerrank" /></a> &nbsp; <a href="https://www.freecodecamp.org/fcca7e27bae-88a7-4a05-a4f9-85d58239771e" target="blank"> <img align="center" src="https://img.shields.io/badge/-freeCodeCamp-black?style=rounded-square&logo=freecodecamp" /></a> &nbsp; <a href="https://www.codechef.com/users/abhi_rajput09" target="blank"> <img align="center" src="https://img.shields.io/badge/-CodeChef-gray?style=rounded-square&logo=codechef" /></a>
 
 -⏱ My Coding Time Tracker 
-<a href="https://wakatime.com/@AbhinavBhardwaj" target="blank"><img src="https://img.shields.io/badge/-WakaTime-black?style=rounded-square&logo=WAKATIME" /></a>
+<a href="https://wakatime.com/@AbhinavBhardwaj" target="blank"><img align="center" src="https://img.shields.io/badge/-WakaTime-black?style=rounded-square&logo=WAKATIME" /></a>
 
--📫 Reach me out &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_cs18@gla.ac.in" target="blank"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a> &nbsp; <a href="mailto:abhinav.bhardwaj_cs@outlook.com" target="blank"> <img src="https://img.shields.io/badge/-Outlook-blue?style=rounded-square&logo=microsoft" /></a> &nbsp; <a href="https://discord.com/users/༒Ǥ₳₦ǤֆƬᏋЯ༒__⑉A͢͢͢b🅷ΐnav⑉#2103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+-📫 Reach me out &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_cs18@gla.ac.in" target="blank"> <img align="center" src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a> &nbsp; <a href="mailto:abhinav.bhardwaj_cs@outlook.com" target="blank"> <img  align="center" src="https://img.shields.io/badge/-Outlook-blue?style=rounded-square&logo=microsoft" /></a> &nbsp; <a href="https://discord.com/users/༒Ǥ₳₦ǤֆƬᏋЯ༒__⑉A͢͢͢b🅷ΐnav⑉#2103" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 <br />
 
