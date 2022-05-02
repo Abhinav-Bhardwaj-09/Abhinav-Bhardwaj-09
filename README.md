@@ -85,7 +85,7 @@ const Abhinav = {
 -⏱ My Coding Time Tracker 
 <a href="https://wakatime.com/@AbhinavBhardwaj" target="blank"><img src="https://img.shields.io/badge/-WakaTime-black?style=rounded-square&logo=WAKATIME" /></a>
 
--📫 Reach me out &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_cs18@gla.ac.in" target="blank"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a> &nbsp; <a href="mailto:abhinav.bhardwaj_cs@outlook.com" target="blank"> <img src="https://img.shields.io/badge/-Outlook-blue?style=rounded-square&logo=microsoft" /></a>
+-📫 Reach me out &nbsp; &nbsp; <a href="mailto:abhinav.bhardwaj_cs18@gla.ac.in" target="blank"> <img src="https://img.shields.io/badge/-Gmail-white?style=rounded-square&logo=gmail" /></a> &nbsp; <a href="mailto:abhinav.bhardwaj_cs@outlook.com" target="blank"> <img src="https://img.shields.io/badge/-Outlook-blue?style=rounded-square&logo=microsoft" /></a> &nbsp; <a href="https://discord.com/users/༒Ǥ₳₦ǤֆƬᏋЯ༒__⑉A͢͢͢b🅷ΐnav⑉#2103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 <br />
 
