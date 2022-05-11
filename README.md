@@ -46,8 +46,9 @@ const Abhinav = {
 
 <br />
  <div align="center" > 
- <a href='https://github.com/Abhinav-Bhardwaj-09/' target="blank"><img alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://wakatime.com/@AbhinavBhardwaj' target="blank"><img alt="Code Time" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'></a><sub>(Since Feb 25<sup>th</sup>)</sub>
+        <a href="https://www.twitter.com/abhinavb1999" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/twitter/follow/abhinavb1999?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://github.com/Abhinav-Bhardwaj-09/' target="blank"><img align="center" alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://wakatime.com/@AbhinavBhardwaj' target="blank"><img alt="Code Time" align="center" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'></a><sub>(Since Feb 25<sup>th</sup>)</sub>
  </div>
 
  <!--    ## Total Profile Visit    <br />
