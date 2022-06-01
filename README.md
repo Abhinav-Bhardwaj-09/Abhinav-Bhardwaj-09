@@ -70,7 +70,7 @@ const Abhinav = {
 
 <br />
 
-## Find me around the web <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 🌎
+## Find me around the web &nbsp; <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> 🌎
 
 -😎 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.in/" target="blank"> <img  align="center" src="https://img.shields.io/badge/-Abhinav--Bhardwaj-blue?style=rounded-square" /></a> <br/>
 
