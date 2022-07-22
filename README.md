@@ -48,7 +48,7 @@ const Abhinav = {
  <div align="center" > 
         <a href="https://www.twitter.com/abhinavb1999" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/twitter/follow/abhinavb1999?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://github.com/Abhinav-Bhardwaj-09/' target="blank"><img align="center" alt="Profile Visit Counter" src='https://visitor-badge.glitch.me/badge?page_id=Abhinav-Bhardwaj-09.visit-counter'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://wakatime.com/@AbhinavBhardwaj' target="blank"><img alt="Code Time" align="center" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'></a><sub>(Since Feb 25<sup>th</sup>)</sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://wakatime.com/@AbhinavBhardwaj' target="blank"><img alt="Code Time" align="center" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.github.com/Abhinav-Bhardwaj-09" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/github/followers/Abhinav-Bhardwaj-09?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
  </div>
 
@@ -60,7 +60,9 @@ const Abhinav = {
 </div>
 <br />  ## Coding Time Elapsed. <br />
  <div align="center"> 
-  <a href='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg' target="blank"><img alt="Code Time" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'></a>  <sub>(Since Feb 25<sup>th</sup>)</sub>
+  <a href='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg' target="blank"><img alt="Code Time" src='https://wakatime.com/badge/user/4936bef7-2260-4b41-991e-0a60f91e65ca.svg'></a>  <sub>(Since Feb 25<sup>th</sup>)</sub>.
+  
+  Extras => <sub>(Since Feb 25<sup>th</sup>)</sub>        <span><sub>_(Since Feb 25<sup>th</sup>)_</sub></span>
  </div>  -->
 
 ## GitHub Trophies &nbsp; <img src='https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png' width="30px" height="30px">
@@ -128,7 +130,7 @@ const Abhinav = {
 </div>
 <br / -->
 
-## WakaTime Stats <span><sub>_(Since Feb 25<sup>th</sup>)_</sub></span>
+## WakaTime Stats 
 
 <p align="center">
         <!--Foreground color: #4992fe and bckgrnd color: trnsprnt-->
