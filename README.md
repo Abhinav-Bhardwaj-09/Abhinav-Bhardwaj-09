@@ -31,8 +31,7 @@ const Abhinav = {
 
         contact: {
                     Email Domain  : "contactme@abhinav-bhardwaj-09.in",
-                    Outlook       : "abhinav.bhardwaj_cs@outlook.com",
-                    College Email : "abhinav.bhardwaj_cs18@gla.ac.in"
+                    Outlook       : "abhinav.bhardwaj_cs@outlook.com"
                   },
 
         exploring: [ Machine Learning, Web Dev with MERN Stack , UX Designing]
