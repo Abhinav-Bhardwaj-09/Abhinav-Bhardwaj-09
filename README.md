@@ -98,8 +98,8 @@ const Abhinav = {
 
 - <a href="https://abhinav-bhardwaj-09.herokuapp.com" target="blank">My Personlized Portfolio</a>
 - <a href="https://ui-color-treasure.herokuapp.com" target="blank">UI-Color-Treasure</a>
-- <a href="https://ready-reckoner.herokuapp.com" target="blank">Ready Reckoner</a>
-- <a href="https://todo--app-live.herokuapp.com" target="blank">ToDo App</a>
+- <a href="https://ready-reckoner.vercel.app" target="blank">Ready Reckoner</a>
+- <a href="https://todo-app-live.vercel.app" target="blank">ToDo App</a>
 - <a href="https://abhinav-bhardwaj-09.in" target="blank">My New Personlized Portfolio</a> <i>( Still working on it )</i>
 - <a href="https://www.figma.com/proto/opBETqZJIDlk6erOE3Va7V/Trailer-Browsing-App?node-id=60%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=60%3A3" target="blank"> Protoype of Trailer Browsing App for a Movie Theatre</a>
 
