@@ -73,7 +73,7 @@ const Abhinav = {
 
 ## Find me around the web &nbsp; <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> 🌎
 
--😎 Know more about me from &nbsp; &nbsp; <a href="https://Abhinav-Bhardwaj-09.in/" target="blank"> <img  align="center" src="https://img.shields.io/badge/-Abhinav--Bhardwaj-blue?style=rounded-square" /></a> <br/>
+-😎 Know more about me from &nbsp; &nbsp; <a href="https://abhinavbhardwaj.in/" target="blank"> <img  align="center" src="https://img.shields.io/badge/-Abhinav--Bhardwaj-blue?style=rounded-square" /></a> <br/>
 
 -😄 Follow me on
 <a href="https://linkedin.com/in/abhinav-bhardwaj-09" title="Linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
