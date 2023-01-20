@@ -108,14 +108,17 @@ const Abhinav = {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="400" />&nbsp;&nbsp;
+  <img src="https://github-stats-alpha.vercel.app/api?username=Abhinav-Bhardwaj-09&cc=0d1017&tc=fff&ic=fff&bc=0d1017" width="400" alt="My GitHub Stats"/>&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2884D2&background=0D1017" width="400" />
 <br /><br /><br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abhinav-Bhardwaj-09&bg_color=0D1017&color=ffffff&line=F77808&point=ffffff&area_color=F77808&area=true&hide_border=true&custom_title=My%20GitHub%20Commits%20Graph%20(Last%2031%20Days)" alt="My GitHub Commits Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhinav-Bhardwaj-09&bg_color=0d1017&color=f77808&line=f77808&point=ffffff&area=true&hide_border=true" alt="My GitHub Commits Graph" width="800"/>
 </p>
 
 <!--
 <div class="row">
+
+https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=github_dark&count_private=true&hide_border=true
+
 <a href="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" /></a>&nbsp;<a href="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" target="blank" alt="Abhinav-Bhardwaj-09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bhardwaj-09&" alt="Abhinav-Bhardwaj-09" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_icons=true&theme=prussian&count_private=true&hide_border=true" align="left" />
