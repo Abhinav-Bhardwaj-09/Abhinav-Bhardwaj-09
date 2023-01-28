@@ -23,18 +23,24 @@ const Abhinav = {
 
         pronouns: "He" | "Him" | "His",
 
-        code: [C, Java, Python, HTML, CSS, JavaScript, Bootstrap, React, Express, PHP, SQL, Embedded C],
+        code: [C, Java, Python, HTML, CSS, JavaScript, TypeScript, Bootstrap, React, Angular, Express, PHP, SQL, Embedded C],
 
         technology: [Web Dev, UX-Design, Machine Learning, Industrial Internet of Things]
 
-        tools: [IntelliJ IDEA, PyCharm, Visual Studio Code, Figma, MongoDB, Postman, Jupyter Notebook, Arduino IDE, Git ],
+        tools: [
+                    IntelliJ IDEA, PyCharm, DataSpell, Visual Studio Code, Figma, MongoDB, Postman, Selenium IDE Jupyter, Notebook, Arduino IDE, Git 
+               ],
 
         contact: {
-                    Email Domain  : "contactme@abhinavbhardwaj.in",
-                    Outlook       : "abhinav.bhardwaj_cs@outlook.com"
+                        Email Domain  : "contactme@abhinavbhardwaj.in",
+                        Outlook       : "abhinav.bhardwaj_cs@outlook.com"
                   },
 
-        exploring: [ Machine Learning, Web Dev with MERN Stack , UX Designing]
+        exploring: [ 
+                      Machine Learning,
+                      Web Dev with (MERN Stack), (Angular, SpringBoot & SQL),
+                      UX Designing
+                   ]
 
 }
 ```
