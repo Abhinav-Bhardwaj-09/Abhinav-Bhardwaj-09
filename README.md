@@ -90,7 +90,7 @@ const Abhinav = {
 -😄 Follow me on
 <a href="https://linkedin.com/in/abhinav-bhardwaj-09" title="Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhinav-bhardwaj-09" title="Kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhinav-bhardwaj-09" height="30" width="40" /></a>
-<a style= href="https://www.codechef.com/users/abhi_rajput09" title="CodeChef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_rajput09" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhi_rajput09" title="CodeChef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_rajput09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_181500009" title="HackerRank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_181500009" height="30" width="40" /></a>
 <a href="https://codepen.io/abhinav-bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhinav-bhardwaj" height="30" width="40" /></a>
 
