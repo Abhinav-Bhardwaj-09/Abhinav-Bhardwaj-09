@@ -25,7 +25,7 @@ const Abhinav = {
 
         code: [C, Java, Python, HTML, CSS, JavaScript, TypeScript, Bootstrap, React, Angular, Express, PHP, SQL, Embedded C],
 
-        technology: [Web Dev, UX-Design, Machine Learning, Industrial Internet of Things]
+        technology: [Web Dev, UX-Design, Machine Learning, Industrial Internet of Things],
 
         tools: [
                     IntelliJ IDEA, PyCharm, DataSpell, Visual Studio Code, Figma, MongoDB, Postman, Selenium IDE Jupyter, Notebook, Arduino IDE, Git 
@@ -37,10 +37,10 @@ const Abhinav = {
                         Gmail         : "developer.abhinavbhardwaj@gmail.com"
                   },
 
-        exploring: [ 
-                      Machine Learning using Python,
+        exploring: [
                       Web Dev with Angular, SpringBoot & SQL, MERN Stack,
-                      AWS,  
+                      AWS,         
+                      Machine Learning using Python,
                       UI/UX Designing
                    ]
 
