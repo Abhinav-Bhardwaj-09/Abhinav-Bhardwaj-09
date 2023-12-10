@@ -154,15 +154,22 @@ https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_ico
 
 <p align="center">
         <!--Foreground color: #4992fe and bckgrnd color: trnsprnt-->
-  <a href="https://wakatime.com/share/@AbhinavBhardwaj/0b5a2ecc-2988-4915-8b67-78833959a4aa.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/0b5a2ecc-2988-4915-8b67-78833959a4aa.png" height="200" width="400" /></a>&nbsp;&nbsp;
-  <a href="https://wakatime.com/share/@AbhinavBhardwaj/311ce1a1-3540-4102-9e8e-bc0ec8d9254a.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/311ce1a1-3540-4102-9e8e-bc0ec8d9254a.png" height="200" width="400" /></a>
+        <a href="https://wakatime.com/@AbhinavBhardwaj"><img alt="Coding Time of Last 30 days" src="https://wakatime.com/share/@AbhinavBhardwaj/d313abda-5017-40bb-b251-5f1431e9445d.png" height="300" width="800" /></a>
+        <br />
+        <br />
+        <br />
+        <br />
+        <a href="https://wakatime.com/@AbhinavBhardwaj"><img alt="Coding Time on different IDEs" src="https://wakatime.com/share/@AbhinavBhardwaj/bfdc6b60-52bf-46ef-8daf-d5ebc1bc4a2b.png" height="300" /></a>&nbsp;&nbsp;
+        <a href="https://wakatime.com/@AbhinavBhardwaj"><img alt="Coding Time of different languages" src="https://wakatime.com/share/@AbhinavBhardwaj/606ad0b6-4abb-4f93-81e2-b47b32db8712.png" height="300"/></a>
+  <!--a href="https://wakatime.com/@AbhinavBhardwaj"><img alt="Coding Time of Last 30 days" src="https://wakatime.com/share/@AbhinavBhardwaj/606ad0b6-4abb-4f93-81e2-b47b32db8712.png" height="300"/></a>
+  <a href="https://wakatime.com/share/@AbhinavBhardwaj/311ce1a1-3540-4102-9e8e-bc0ec8d9254a.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/311ce1a1-3540-4102-9e8e-bc0ec8d9254a.png" height="250" width="600" /></a-->
 </p>
 
 <br />
 
-<p align="center">
+<!--p align="center">
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/d1379653-972e-40ff-ae91-18ebe2786561.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/d1379653-972e-40ff-ae91-18ebe2786561.png" height="200" width="400" /></a>&nbsp;&nbsp;
- <a href="https://wakatime.com/share/@AbhinavBhardwaj/a84b7d01-06cf-429d-8334-ee2ff181e397.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/a84b7d01-06cf-429d-8334-ee2ff181e397.png" height="200" width="400" /></a>
+ <a href="https://wakatime.com/share/@AbhinavBhardwaj/a84b7d01-06cf-429d-8334-ee2ff181e397.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/a84b7d01-06cf-429d-8334-ee2ff181e397.png" height="200" width="400" /></a-->
 </p>
 
 <br />
