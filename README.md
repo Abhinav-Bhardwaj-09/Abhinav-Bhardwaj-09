@@ -150,7 +150,14 @@ https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_ico
 </div>
 <br / -->
 
+<br/>
+
 ## WakaTime Stats 
+
+
+### Overall :
+
+<br />
 
 <p align="center">
         <!--Foreground color: #4992fe and bckgrnd color: trnsprnt-->
@@ -166,6 +173,7 @@ https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_ico
 </p>
 
 <br />
+<br />
 
 <!--p align="center">
   <a href="https://wakatime.com/share/@AbhinavBhardwaj/d1379653-972e-40ff-ae91-18ebe2786561.png"><img src="https://wakatime.com/share/@AbhinavBhardwaj/d1379653-972e-40ff-ae91-18ebe2786561.png" height="200" width="400" /></a>&nbsp;&nbsp;
@@ -174,8 +182,19 @@ https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_ico
 
 <br />
 
+### Last 7 days :
+
+<br />
+<br />
+
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinavbhardwaj&layout=compact&bg_color=0D1017&hide_border=true&hide_title=true"/>
+
+<img src="https://wakatime.com/share/@AbhinavBhardwaj/3630100f-89d5-4678-b187-8b4f1730ad35.png" height="400" width="500"/>
+ 
+<br/>       
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinavbhardwaj&layout=compact&bg_color=0D1017&hide_border=true&hide_title=true" height="300" width="700" align-self="center"/>
+         
 </p>
 
 
