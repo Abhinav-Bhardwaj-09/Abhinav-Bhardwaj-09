@@ -193,7 +193,9 @@ https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_ico
  
 <br/>       
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhinavbhardwaj&layout=compact&bg_color=0D1017&hide_border=true&hide_title=true" height="300" width="700" align-self="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav-Bhardwaj-09&layout=compact&bg_color=0D1017&hide_border=true&hide_title=true" height="200" width="500" align-self="center"/>
+
+
          
 </p>
 
