@@ -188,16 +188,19 @@ https://github-readme-stats.vercel.app/api?username=Abhinav-Bhardwaj-09&show_ico
 
 <br />
 
-### Last 7 days :
+### In Last 7 days :
 
 <br />
 <br />
 
 <p align="center">
 
-<img src="https://wakatime.com/share/@AbhinavBhardwaj/3630100f-89d5-4678-b187-8b4f1730ad35.png" height="400" width="500"/>
+<img src="https://wakatime.com/share/@AbhinavBhardwaj/033b39ba-fa75-47de-9a73-41ec36c2fd8f.png" height="400" width="500"/>
  
-<br/>       
+<br/> 
+<br/>  
+<br/> 
+<br/>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav-Bhardwaj-09&layout=compact&bg_color=0D1017&hide_border=true&hide_title=true" height="200" width="500" align-self="center"/>
 
