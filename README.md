@@ -100,7 +100,13 @@ const Abhinav = {
 
 -💼 Sharing updates on &nbsp; &nbsp; <a href="https://www.linkedin.com/in/abhinav-bhardwaj-09/" target="blank"> <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=linkedin" /></a>
 
--💻 Coding Practice on &nbsp; &nbsp; <a href="https://www.codingninjas.com/studio/profile/AbhinavBhardwaj" target="blank"> <img align="center" src="https://img.shields.io/badge/-CodingNinjas-black?style=rounded-square&logo=codingninjas" /></a> &nbsp; <a href="https://www.hackerrank.com/_181500009" target="blank"> <img align="center" src="https://img.shields.io/badge/-HackerRank-black?style=rounded-square&logo=hackerrank" /></a> &nbsp; <a href="https://leetcode.com/Abhinav-Bhardwaj" target="blank"> <img align="center" src="https://img.shields.io/badge/-LeetCode-black?style=rounded-square&logo=Leetcode" /></a> &nbsp; <a href="https://www.freecodecamp.org/fcca7e27bae-88a7-4a05-a4f9-85d58239771e" target="blank"> <img align="center" src="https://img.shields.io/badge/-freeCodeCamp-black?style=rounded-square&logo=freecodecamp" /></a> &nbsp; <a href="https://www.codechef.com/users/abhi_rajput09" target="blank"> <img align="center" src="https://img.shields.io/badge/-CodeChef-black?style=rounded-square&logo=codechef" /></a>
+-💻 Coding Practice on &nbsp; &nbsp; 
+<a href="https://www.codingninjas.com/studio/profile/AbhinavBhardwaj" target="_blank"> <img align="center" src="https://img.shields.io/badge/-CodingNinjas-black?style=rounded-square&logo=codingninjas" /></a> &nbsp; 
+<a href="https://www.hackerrank.com/_181500009" target="_blank"> <img align="center" src="https://img.shields.io/badge/-HackerRank-black?style=rounded-square&logo=hackerrank" /></a> &nbsp; 
+<a href="https://leetcode.com/Abhinav-Bhardwaj" target="_blank"> <img align="center" src="https://img.shields.io/badge/-LeetCode-black?style=rounded-square&logo=Leetcode" /></a> &nbsp; 
+<a href="https://www.freecodecamp.org/fcca7e27bae-88a7-4a05-a4f9-85d58239771e" target="_blank"> <img align="center" src="https://img.shields.io/badge/-freeCodeCamp-black?style=rounded-square&logo=freecodecamp" /></a> &nbsp; 
+<a href="https://www.codechef.com/users/abhi_rajput09" target="_blank"> <img align="center" src="https://img.shields.io/badge/-CodeChef-black?style=rounded-square&logo=codechef" /></a>&nbsp; 
+<a href="https://www.naukri.com/code360/profile/AbhinavBhardwaj" target="_blank"> <img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" /></a>
 
 -⏱ My Coding Time Tracker 
 <a href="https://wakatime.com/@AbhinavBhardwaj" target="blank"><img align="center" src="https://img.shields.io/badge/-WakaTime-black?style=rounded-square&logo=WAKATIME" /></a>
