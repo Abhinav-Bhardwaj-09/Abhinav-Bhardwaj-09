@@ -134,7 +134,7 @@ const Abhinav = {
 <br /><br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-Bhardwaj-09&bg_color=0d1017&color=f77808&line=f77808&point=ffffff&area=true&hide_border=true" alt="My GitHub Commits Graph" width="800"/>
 <br /><br />
-<img src="https://github.com/Abhinav-Bhardwaj-09/helperRepository/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Abhinav-Bhardwaj-09/helperRepository/blob/output/snake.svg" />
 </p>
 
 
